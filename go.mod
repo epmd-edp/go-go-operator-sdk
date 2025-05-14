@@ -1,6 +1,6 @@
 module github.com/epmd-edp/go-go-operator-sdk
 
-go 1.19
+go 1.24
 
 require (
 	k8s.io/apimachinery v0.25.0
